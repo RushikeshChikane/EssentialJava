@@ -10,7 +10,7 @@ public class HomeController {
     @RequestMapping("/test")
     @ResponseBody
     public String Handler(){
-        return "Hello World";
+        return "Hello World Welcome to Java World";
     } 
 }
                 

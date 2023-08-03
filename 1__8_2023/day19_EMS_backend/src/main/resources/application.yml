@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    password: omkar7218
+    url: jdbc:mysql://localhost:3306/dac22?useSSL=false&allowPublicKeyRetrieval=true
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+    show-sql: true

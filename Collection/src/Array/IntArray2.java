@@ -11,5 +11,4 @@ public class IntArray2 {
 			System.out.println(a[i]);
 		}
 	}
-
 }

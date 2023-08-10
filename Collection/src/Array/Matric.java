@@ -30,8 +30,7 @@ public class Matric {
 			destination[i]=new int[source[i].length];	
 		
         for (int j = 0; j < destination[i].length; ++j) {
-            destination[i][j] = source[i][j];
-
+            destination[i][j] = source[i][j]
 
 		}
 	
